@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(59, 252, 252);
+    padding: 15px;
+}
+
+main h1 {
+    color: blueviolet;
+}
+
+footer p {
+    border: 1px solid black;
+}
+
+.b666 {
+    padding: 10px;
+    background-color: brown;
+}
+
+main h2 {
+    color: blue;
+    font-size: 25px;
+}
